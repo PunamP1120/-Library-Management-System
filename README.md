@@ -12,8 +12,8 @@
 cd library-management
 
 2. **Create and Activate a Virtual Environment**
-   -python -m venv venv
-   -.\venv\Scripts\activate
+   python -m venv venv
+   .\venv\Scripts\activate
    
 3. **Install Dependencies**
    pip install -r requirements.txt
