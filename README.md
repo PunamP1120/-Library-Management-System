@@ -1,6 +1,6 @@
 # -Library-Management-System
 ## Features
-- Admin can **add, update, delete, and view** books.
+- CURD operation- **add, update, delete, and view** books.
 - Students can **view available books**.
 - RESTful API with MySQL database.
 
